@@ -53,12 +53,12 @@ body {
 .btn {
   display: inline-block;
   border: none;
-  background: #555;
+  background: #24a0ed;
   color: #fff;
   padding: 7px 20px;
   cursor: pointer;
 }
 .btn:hover {
-  background: #666;
+  background: #5bc0de;
 }
 </style>
